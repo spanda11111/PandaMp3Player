@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">PandaMp3Player</string>
+  <string name="app_name">PandaMp3Player</string>
+    <string name="backword">&lt;&lt;</string>
+    <string name="forward">&gt;&gt;</string>
+    <string name="singlefrwrd">|&gt;</string>
+    <string name="singlebckwrd">|&lt;</string>
 </resources>
